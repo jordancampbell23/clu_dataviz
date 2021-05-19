@@ -1,3 +1,3 @@
-# Data Visualization in R
+# MSQE: Data Visualization in R
 
 Test

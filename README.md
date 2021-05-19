@@ -1,4 +1,4 @@
-# MSQE: Intro to Data Visualization in R :bar_chart:
+#  :bar_chart: MSQE: Intro to Data Visualization in R
 
 **R Viz Packages**
  - [ggplot](https://ggplot2.tidyverse.org/)

@@ -1,4 +1,4 @@
-# MSQE: Data Visualization in R
+# MSQE: Intro to Data Visualization in R
 
 **R Viz Packages**
  - [ggplot](https://ggplot2.tidyverse.org/)

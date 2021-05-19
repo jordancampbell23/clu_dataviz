@@ -1,7 +1,7 @@
 #  :bar_chart: MSQE: Intro to Data Visualization in R
 
 
-## [Slides] (https://jordancampbell23.shinyapps.io/r_data_viz/)
+[**Slides**] (https://jordancampbell23.shinyapps.io/r_data_viz/)
 
 **R Viz Packages**
  - [ggplot](https://ggplot2.tidyverse.org/)

@@ -1,18 +1,18 @@
 # MSQE: Data Visualization in R
 
 R Viz Packages
-ggplot
-Plotly
-echarts4r
-apexcharter
+ - ggplot
+ - Plotly
+ - echarts4r
+ - apexcharter
 
-shiny
-golem
-fullPage
+ - shiny
+ - golem
+ - fullPage
 
-leaflet
+ - leaflet
 
 Learning Resources
-dataquest.io
-GitHub
-RStudio
+ - dataquest.io
+ - GitHub
+ - RStudio

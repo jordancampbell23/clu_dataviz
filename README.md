@@ -1,6 +1,6 @@
 # MSQE: Data Visualization in R
 
-R Viz Packages
+**R Viz Packages**
  - ggplot
  - Plotly
  - echarts4r
@@ -10,7 +10,7 @@ R Viz Packages
  - fullPage
  - leaflet
 
-Learning Resources
+**Learning Resources**
  - dataquest.io
  - GitHub
  - RStudio

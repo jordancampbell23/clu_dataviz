@@ -5,11 +5,9 @@ R Viz Packages
  - Plotly
  - echarts4r
  - apexcharter
-
  - shiny
  - golem
  - fullPage
-
  - leaflet
 
 Learning Resources

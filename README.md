@@ -10,7 +10,7 @@
  - fullPage
  - leaflet
 
-
+/
 **Learning Resources**
  - dataquest.io
  - GitHub
